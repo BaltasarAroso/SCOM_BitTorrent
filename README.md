@@ -1,4 +1,4 @@
-# scom-project
+# SCOM
 
 ## BitTorrent Based Live Streaming
 
